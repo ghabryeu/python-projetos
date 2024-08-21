@@ -1,3 +1,0 @@
-# Bem vindos!
-
-olá, mundinho
